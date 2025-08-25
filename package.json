@@ -10,9 +10,14 @@
     "test": "jest"
   },
   "dependencies": {
+    "@parse/react-native": "^0.0.1-alpha.18",
+    "@react-native-async-storage/async-storage": "^2.2.0",
+    "@react-native/new-app-screen": "0.80.2",
+    "parse": "^6.1.1",
     "react": "19.1.0",
     "react-native": "0.80.2",
-    "@react-native/new-app-screen": "0.80.2"
+    "react-native-paper": "^5.14.5",
+    "react-native-uuid": "^2.0.3"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
